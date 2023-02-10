@@ -72,8 +72,9 @@ a {
 .popup-container {
     background-color: #303030;
     border-radius: 10px;
-    padding: 20px;
-    width: 25%;
+    padding: 15px;
+    min-width: 25%;
+    max-width: 75%;
     margin: auto;
 }
 
