@@ -1,0 +1,1 @@
+"use strict";function p(){document.getElementById('m').style.display='flex';}document.getElementById("p-c").addEventListener('click',p);
